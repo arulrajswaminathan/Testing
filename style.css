@@ -1,0 +1,119 @@
+body {
+	background-image: url(bg.jpg);
+    background-size: cover;
+    background-position: center;
+	text-align: center;
+	align-content: center;
+}
+
+
+.grid {
+width: 90%;
+margin:1% auto;
+background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7));
+padding: 10px 50px 50px 50px;
+border-radius: 7px;
+border: 0.5px solid #39527e;
+box-shadow: 10px 15px 5px rgba(0, 0, 0, 0.3);
+background-repeat: no-repeat;
+}
+
+
+.grid h1 {
+font-family: 'Roboto',sans-serif;
+background-color: #C0C0C033;
+font-size: 40px;
+text-align: center;
+color: #FFFFFF;
+padding: 2px 0px;
+border-radius: 10px;
+border: 0.5px solid #000000AA;
+}
+
+#score {
+color: #e2e2e2;
+text-align: center;
+font-size: 40px;
+font-family: 'Roboto',sans-serif;
+}
+#score2 {
+color: #C0C0C0AA;
+text-align: center;
+font-size: 25px;
+font-family: 'Roboto',sans-serif;
+}
+
+
+#question {
+font-family: 'Roboto', sans-serif;
+font-size: 300%;
+color: #C0C0C0;
+margin-bottom:5%;
+}
+
+footer{
+	margin: 5% 0 auto auto;
+}
+
+button{
+background-color: rgba(0, 0, 0, 0.5);
+font-family: 'Roboto', sans-serif;
+width: 70%;
+font-size: 250%;
+color: #fff;
+border: 0.5px solid #654321;
+border-radius: 7px;
+margin: 1%;
+padding: 10px 10px;
+}
+
+button:hover {
+cursor: pointer;
+background-color: #8B4513AA; 
+}   
+
+button: focus {
+outline: 0;
+}
+
+.button-toggle{
+	background-color: green;
+}
+
+#progress {
+color: #FFFFFF;
+font-size: 100%;
+font-family: 'Roboto', sans-serif;
+}
+#summa{
+	text-align: center;
+}
+#onlyimg{
+	border-radius: 15px;
+	background: : linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7));
+}
+#btndiv1{
+	text-align: center;
+}
+ 
+#button{
+	height:70%;
+}
+#frands{
+	width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
